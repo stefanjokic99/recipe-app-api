@@ -29,6 +29,6 @@ To run this project on your local machine, follow these steps:
 - Security: Secure user authentication and password management.
 - Scalability: Built with Docker for easy scaling and deployment.
 - Testing: Comprehensive unit tests ensuring code reliability.
-- CI/CD: Integrated CI/CD pipeline using GitHub Actions for automated testing and deployment.
+- CI/CD: Integrated CI/CD pipeline using GitHub Actions for automated testing.
 - Database: Utilizes Postgres for robust and efficient data management.
 
