@@ -17,17 +17,15 @@ To run this project on your local machine, follow these steps:
 1. Clone the repository.
 2. Setup Docker and Docker-Compose
 3. Run the app with:
-  ```bash
-  docker-compose up -d
+   ```bash
+   docker-compose up -d
 
 ### Usage
-
 - Open a web browser and navigate to http://127.0.0.1:8000/.
 - Register a new account or log in with an existing one.
 - Explore the features of the API, such as user authentication, creating and managing recipes, and uploading images.
 
 ### Technical Specifications
-
 - Security: Secure user authentication and password management.
 - Scalability: Built with Docker for easy scaling and deployment.
 - Testing: Comprehensive unit tests ensuring code reliability.
