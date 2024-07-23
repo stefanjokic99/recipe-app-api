@@ -1,5 +1,5 @@
 # recipe-app-api
-This Django web application focuses on creating an advanced recipe API that allows users to upload and store their favorite recipes from photos and the web. Users can create recipes with titles, price points, cooking times, ingredients, and tags like "comfort food," "vegan," or "dessert." Think of it as a virtual recipe box.
+This Django web application focuses on creating an recipe API that allows users to upload and store their favorite recipes from photos and the web. Users can create recipes with titles, price points, cooking times, ingredients, and tags like "comfort food," "vegan," or "dessert." Think of it as a virtual recipe box.
 
 ## Getting Started
 
