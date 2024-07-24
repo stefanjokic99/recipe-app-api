@@ -26,9 +26,8 @@ To run this project on your local machine, follow these steps:
 - Explore the features of the API, such as user authentication, creating and managing recipes, and uploading images.
 
 ### Technical Specifications
-- Security: Secure user authentication and password management.
+- Security: Secure user authentication.
 - Scalability: Built with Docker for easy scaling and deployment.
 - Testing: Comprehensive unit tests ensuring code reliability.
 - CI/CD: Integrated CI/CD pipeline using GitHub Actions for automated testing.
-- Database: Utilizes Postgres for robust and efficient data management.
 
