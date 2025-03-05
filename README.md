@@ -4,7 +4,7 @@ This Django web application focuses on creating an recipe API that allows users 
 ## Getting Started
 
 To run this project on your local machine, follow these steps:
-
+ 
 ### Prerequisites
 
 - Python 3.8 or higher
